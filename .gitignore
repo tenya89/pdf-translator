@@ -1,0 +1,12 @@
+# 金鑰
+.env
+# 虛擬環境、快取
+.venv/
+__pycache__/
+*.pyc
+# 輸入與輸出文件（可能有版權或內部資料）
+*.pdf
+*.docx
+output/
+# 字型由 translator/setup_fonts.py 產生
+translator/fonts/
